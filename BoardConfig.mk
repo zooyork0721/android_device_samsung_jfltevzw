@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := jfltevzw
 
 # Kernel
-TARGET_KERNEL_CONFIG := jf_vzw_deconfig
+TARGET_KERNEL_CONFIG := chronic_jf_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := chronic_jf_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro
 BUILD_KERNEL := true
